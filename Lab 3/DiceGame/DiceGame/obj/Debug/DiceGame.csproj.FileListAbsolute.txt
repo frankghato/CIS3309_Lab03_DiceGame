@@ -1,0 +1,10 @@
+C:\Users\Frank\Desktop\CIS3309\Lab 3\DiceGame\DiceGame\bin\Debug\DiceGame.exe.config
+C:\Users\Frank\Desktop\CIS3309\Lab 3\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+C:\Users\Frank\Desktop\CIS3309\Lab 3\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+C:\Users\Frank\Desktop\CIS3309\Lab 3\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.AssemblyReference.cache
+C:\Users\Frank\Desktop\CIS3309\Lab 3\DiceGame\DiceGame\obj\Debug\DiceGame.Form1.resources
+C:\Users\Frank\Desktop\CIS3309\Lab 3\DiceGame\DiceGame\obj\Debug\DiceGame.Properties.Resources.resources
+C:\Users\Frank\Desktop\CIS3309\Lab 3\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.GenerateResource.cache
+C:\Users\Frank\Desktop\CIS3309\Lab 3\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Desktop\CIS3309\Lab 3\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+C:\Users\Frank\Desktop\CIS3309\Lab 3\DiceGame\DiceGame\obj\Debug\DiceGame.pdb
